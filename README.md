@@ -13,5 +13,5 @@ Uses a simple on off key (OOK) 433Mhz transmitter.
 Connect:
 
   GND to GND  
-  VCC to GPIO 1  (RX Data)
+  VCC to GPIO 1  (RX Data)  
   Data to GPIO 3 (TX Data)
